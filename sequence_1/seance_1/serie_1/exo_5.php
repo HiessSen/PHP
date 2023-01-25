@@ -7,7 +7,7 @@
             }else{
                 $reponse = '2 puissance '.$i.' égal '.pow(2,$i);
             }
-            // var_dump ($reponse);
+            var_dump ($reponse);
             echo $reponse;
         }
     }
@@ -24,7 +24,7 @@
 </head>
 <body>
     <?php
-    afficherPuissancesDeDeux($_GET['nombre']);
+        afficherPuissancesDeDeux($_GET['nombre']);
     ?>
 </body>
 </html>
