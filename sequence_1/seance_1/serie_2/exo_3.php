@@ -1,3 +1,7 @@
+<?php
+    $tableauDeFilms = 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
