@@ -1,6 +1,5 @@
 <?php
     // tableau simple : 
-
     $tableau[0] = 2023;
     $tableau[1] = "DEVWEB-18-S2";
     $tableau[] = 11.12;
@@ -48,7 +47,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP seq1 seance1 serie2 exo1</title>
+    <title>PHP seqence 1 seance 1 serie 2 exo 1</title>
 </head>
 <body>
     <p><?=parcourirTableau($tableau)?></p>

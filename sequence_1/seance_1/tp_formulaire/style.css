@@ -1,0 +1,19 @@
+form{
+    align-items: center;
+    width: 20%;
+    padding: 3% 40%;
+    flex-direction: column;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+
+}
+div{
+    display: flex;
+    flex-direction: column;
+    padding: 2% 0;
+}
+div.sexe{
+    flex-direction: row;
+}
