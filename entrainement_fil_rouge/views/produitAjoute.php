@@ -1,0 +1,1 @@
+<div>Votre produit a bien été ajouté <a href="index.php">Retour à l'accueil</a></div> 

@@ -1,0 +1,1 @@
+<div> ERREUR: <?=$reponse->getException()->getMessage()?></div>

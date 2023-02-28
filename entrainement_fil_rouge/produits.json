@@ -1,0 +1,36 @@
+{
+    "produits": [
+        {
+            "titre": "DualSense pour PS5",
+            "sousTitre": "Manette PS5 officielle",
+            "image": "images/produits/dualsense.png",
+            "marque": "Sony",
+            "prix": 69.99,
+            "description": "Manette DualSense officielle pour console Playstation 5, Blanche et noire. Offre tout le confort lié au célèbre systême de retour Haptique, aux joysticks symetriques et au savoir faire Playstation !"
+        },
+        {
+            "titre": "Carbon Black pour XBox Series",
+            "sousTitre": "Manette XBox Series officielle",
+            "image": "images/produits/manette_xbox_series.png",
+            "marque": "Microsoft",
+            "prix": 65.99,
+            "description": "Manette officiele pour console XBox Series, noir charbon. Tout le savoir faire de Microsoft réuni dans la dernière manette à ce jour ! Possibilités infinies et gameplay millimetré assurés !"
+        },
+        {
+            "titre": "Controller Pro Switch",
+            "sousTitre": "Manette Switch officielle",
+            "image": "images/produits/manette_switch.png",
+            "marque": "Nintendo",
+            "prix": 89.99,
+            "description": "Controlleur pro officiel Nintendo Switch, noir charbon. Permet de jouer à vos jeux Nintendo preferés tout en beneficiant du confort des anciennes manettes Xbox. (C'est trop cher et c'est pas ouf)"
+        },
+        {
+            "titre": "Manette Pro Steam",
+            "sousTitre": "Manette Steam officielle (nulle)",
+            "image": "images/produits/manette_steam.png",
+            "marque": "Valve",
+            "prix": 119.99,
+            "description": "Controlleur pro (non) officiel Steam. Le contour d'une manette de XBox, le mapping d'une Dual Shock, la qualité in-game est un pousse-au-suicide. N'achetez pas."
+        }
+    ]
+}
